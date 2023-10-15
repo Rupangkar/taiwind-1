@@ -1,0 +1,50 @@
+.text-Primary{
+    color: #3f454c !important;
+    
+}
+
+.bg-Primary{
+    background-color: #3f454c !important;
+}
+
+
+.ttext-secondary{
+    color:#00afaa !important;
+}
+
+.bg-secondary{
+    background-color: #00afaa !important;
+
+}
+.banner{
+    background-image: url(../images/ima.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 130px 0px !important;
+}
+
+.brand-section{
+    background-color: #0e0e0e11 !important;
+}
+.feature{
+    background-color:#a9a8a833;
+}
+.contact{
+    background-color:#1B222C;
+}
+.concolor{
+    color:#6c757d !important;
+}
+footer {
+    background: #3F454D;
+}
+footer li{
+    color:#ffffff7a;
+    list-style: none;
+    padding: 10px 0;
+
+}
+footer a{
+    text-decoration: none;
+}
